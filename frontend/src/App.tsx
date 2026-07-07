@@ -1,1 +1,1 @@
-export const App = () => <div>v0</div>;
+export const App = () => <div>XYNE-101</div>;
